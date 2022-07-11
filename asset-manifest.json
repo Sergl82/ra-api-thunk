@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ra-api-thunk/static/css/main.1669d8f4.css",
+    "main.js": "/ra-api-thunk/static/js/main.222887dc.js",
+    "static/media/mcru-ajax-loader.gif": "/ra-api-thunk/static/media/mcru-ajax-loader.6f9ac78cafe081e51d36.gif",
+    "index.html": "/ra-api-thunk/index.html",
+    "main.1669d8f4.css.map": "/ra-api-thunk/static/css/main.1669d8f4.css.map",
+    "main.222887dc.js.map": "/ra-api-thunk/static/js/main.222887dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1669d8f4.css",
+    "static/js/main.222887dc.js"
+  ]
+}
